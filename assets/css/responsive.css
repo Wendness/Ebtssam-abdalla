@@ -1,0 +1,275 @@
+@media only screen and (max-width: 1750px) {
+    .about-images {
+        margin-left: auto;
+    }
+    
+}
+
+
+
+
+@media only screen and (max-width: 1500px) {
+    .hero-section {
+        min-height: 800px;
+    }
+    .hero-content h1 {
+        font-size: 60px;
+    }
+    
+}
+
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        max-width: 1270px;
+        padding: 0 50px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1199px) {
+    .testimonial-content {
+        margin-left: 0;
+    }
+    .client-wrap {
+        margin: 0 -30px;
+    }
+    .client-item {
+        margin: 0 30px 50px;
+    }
+    .sp-video {
+        margin-left: 0;
+    }
+    
+    
+}
+
+
+@media only screen and (max-width: 1199px) and (min-width: 992px) { 
+    .about-images img:nth-child(2) {
+        padding-left: 16px;
+    }
+    .testimonial-wrap .owl-dots {
+        left: calc(40% + 28px);
+        bottom: 20px;
+    }
+    .profile-details .icon-list li {
+        width: 1000%;
+    }
+    
+    
+}
+
+
+@media only screen and (max-width: 991px) {
+    .section-title {
+        margin-bottom: 55px;
+    }
+    .what-experct-img {
+        height: auto;
+    }
+    .testimonial-image {
+        margin-bottom: 50px;
+    }
+    .testimonial-wrap .owl-dots {
+        left: 0;
+        bottom: 0;
+    }
+    .testimonial-content {
+        padding-bottom: 55px;
+    }
+    .testimonial-quote {
+        left: 52%;
+        top: auto; 
+        width: 20%;
+        bottom: 150px;
+    }
+    .owl-carousel.team-carousel.style-two .owl-nav {
+        top: -150px;
+    }
+    .owl-carousel.team-carousel .owl-nav button {
+        height: 55px;
+        width: 55px;
+        font-size: 20px;
+    }
+    .client-wrap {
+        margin: 0 -25px;
+    }
+    .client-item {
+        margin: 0 22px 50px;
+    }
+    .error-section {
+        text-align: center;
+    }
+    .contact-map {
+        height: 600px;
+    }
+    .member-porfile {
+        display: inline-block;
+    }
+
+}
+
+
+@media only screen and (max-width: 767px) {
+    .container,
+    .container-fluid {
+        padding: 0 30px;
+    }
+    .section-title h2,
+    .sp-video-conten h2,
+    .sp-right-content h2 {
+        font-size: 35px;
+    }
+    .about-images img:nth-child(2) {
+        padding-left: 16px;
+    }
+    .hero-section {
+        min-height: 700px;
+    }
+    .hero-content h1 {
+        font-size: 50px;
+    }
+    .banner-inner {
+        height: 400px;
+    }
+    .page-title {
+        font-size: 40px;
+    }
+    .breadcrumb-item a, .breadcrumb-item.active {
+        font-size: 15px;
+    }
+    .beauty-content h3 {
+        font-size: 30px;
+    }
+    .owl-carousel.team-carousel.style-two .owl-nav {
+        top: 50%;
+        width: 100%;
+        display: flex;
+        transform: translateY(-85px);
+        justify-content: space-between;
+    }
+    .profile-details .icon-list li {
+        width: 1000%;
+    }
+    .error-content h1 {
+        font-size: 170px;
+    }
+    .contact-form-inner {
+        padding: 100px 50px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 575px) {
+    .theme-btn, a.theme-btn {
+        font-size: 16px;
+        min-width: auto; 
+        padding: 15px 25px;
+    }
+    .what-experct-content h3 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .client-item {
+        max-width: 100px;
+    }
+    .error-content h1 {
+        font-size: 120px;
+    }
+    
+}
+
+@media only screen and (max-width: 480px) {
+    .vission-mission,
+    .what-experct-content {
+        padding: 55px 25px;
+    }
+    .section-title p br {
+       display: none;
+    }
+    .sp-video {
+        padding: 35px 15px;
+    }
+    .document-links a {
+        padding: 15px 20px;
+        font-size: 15px;
+    }
+    .banner-content p br {
+        display: none;
+    }
+    .contact-info-item {
+        display: block;
+        text-align: center;
+    }
+    .contact-info-icon {
+        margin-bottom: 20px;
+    }
+    .info-content span {
+        font-size: 18px;
+    }
+    
+}
+
+@media only screen and (max-width: 400px) {
+    .hero-content h1 {
+        font-size: 38px;
+    }
+    .vision-mision {
+        display: block;
+    }
+    .vision-mision .vm-image {
+        display: block;
+        margin-bottom: 15px;
+    }
+    .price-circle {
+        height: 135px;
+        width: 135px;
+    }
+    .price-circle h3 {
+        font-size: 30px;
+    }
+    .price-circle p {
+        margin-bottom: 5px;
+    }
+    .subscribe-widget form {
+        padding: 30px 20px;
+    }
+    .vission-mission h3 {
+        font-size: 35px;
+        margin-bottom: 30px;
+    }
+    .experience {
+        left: 20px;
+        bottom: 20px;
+        height: 200px;
+        width: 200px;
+        padding: 20px;
+    }
+    .download-bio a {
+        padding: 20px;
+        font-size: 18px;
+    }
+    .icon-list li {
+        font-size: 18px;
+    }
+    .icon-list li i {
+        margin-right: 10px;
+    }
+    .error-content h1 {
+        font-size: 100px;
+    }
+    .contact-form-inner {
+        padding: 100px 20px;
+    }
+    .gallery-popup-link {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+    
+}
+
+
